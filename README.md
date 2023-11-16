@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NerdyGF22
 - 👀 I’m interested in ... solving small problems that make a difference 
-- 👩🏾‍💻 I’m currently learning ...software engineering at AlX 
+- 👩🏾‍💻 I’m currently learning ...software engineering at ALX 
 - 📫 How to reach me ... telmafarida.tg@gmail.com 
 
 <!---
